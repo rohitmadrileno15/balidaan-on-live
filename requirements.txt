@@ -82,7 +82,7 @@ pycurl==7.43.0.5
 PyDispatcher==2.0.5
 pydocstyle==5.0.2
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyHamcrest==2.0.2
 PyInstaller==3.6
 PyMySQL==0.9.3

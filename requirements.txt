@@ -68,7 +68,7 @@ passlib==1.7.2
 pbr==5.4.4
 pdfminer.six==20200124
 pefile==2019.4.18
-Pillow==7.1.1
+Pillow==8.2.0
 pinterest-api==0.0.8
 playsound==1.2.2
 Protego==0.1.16
